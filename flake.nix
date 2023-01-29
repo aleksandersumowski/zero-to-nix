@@ -1,5 +1,5 @@
 {
-  description = "A Nix-flake-based Node.js development environment";
+  description = "A Nix-flake-based development environment";
 
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
